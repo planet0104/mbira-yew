@@ -5,4 +5,4 @@
 [https://www.ccfish.run/mbira/](https://www.ccfish.run/mbira/)
 
 
-<img src="https://github.com/planet0104/mbira-yew/blob/master/play.jpg" />
+<img src="https://raw.githubusercontent.com/planet0104/mbira-yew/main/play.jpg" />
