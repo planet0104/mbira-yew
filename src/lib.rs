@@ -175,6 +175,9 @@ impl Component for Model {
                 }else if name == "逍遥叹-胡歌"{
                     self.bpm = 68.;
                     self.init_tabs(tabs::XIAOYAOTAN);
+                }else if name == "斗地主BGM2" {
+                    self.bpm = 48.;
+                    self.init_tabs(tabs::DOU_DI_ZHU_BGM2);
                 }
                 true
             }
@@ -250,6 +253,7 @@ impl Component for Model {
                                 <option value="梁祝">{"梁祝"}</option>
                                 <option value="但愿人长久">{"但愿人长久"}</option>
                                 <option value="蝶恋">{"蝶恋"}</option>
+                                <option value="斗地主BGM2">{"斗地主BGM2"}</option>
                             </>
                         }
                     />
